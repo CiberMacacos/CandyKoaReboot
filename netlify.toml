@@ -1,0 +1,5 @@
+[context.production]
+NODE_ENV = "production"
+
+[context.development]
+NODE_ENV = "development"
