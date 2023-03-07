@@ -1,8 +1,0 @@
-[context.production]
-NODE_ENV = "production"
-
-[context.development]
-NODE_ENV = "development"
-
-[context.branch-deploy]
-NODE_ENV = "development"
